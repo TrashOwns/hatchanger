@@ -1,4 +1,4 @@
-local _ = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/sol"))()
+local _ = loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashOwns/hatchanger/main/sol"))()
 local b = _:New({Name = "                                      VisualWorks", FolderToSave = "SolarisLibStuff"})
 local _ = b:Tab("Info")
 local a = _:Section("Click for message")
