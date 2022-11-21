@@ -198,7 +198,7 @@ h:Button(
     end
 )
 h:Button(
-    "Red Void Star",
+    "SKOTN",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
@@ -251,7 +251,7 @@ h:Button(
                 end
             end
         end
-        local _ = 1191135761
+        local _ = 439945661
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
         k(game.Players.LocalPlayer.Character, _)
     end
