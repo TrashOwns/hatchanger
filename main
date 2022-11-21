@@ -1,5 +1,5 @@
 local _ = loadstring(game:HttpGet("https://raw.githubusercontent.com/TrashOwns/hatchanger/main/sol"))()
-local b = _:New({Name = "                                      Femboy", FolderToSave = "SolarisLibStuff"})
+local b = _:New({Name = "                                      Femboy", FolderToSave = "OpenLibStuff"})
 local _ = b:Tab("Info")
 local a = _:Section("Click for message")
 local _ = b:Tab("Hats")
