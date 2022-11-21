@@ -1687,7 +1687,7 @@ j:Button(
     end
 )
 j:Button(
-    "White-Sparkle-Time-Fedora",
+    "RedVoidStar",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
@@ -1740,7 +1740,7 @@ j:Button(
                 end
             end
         end
-        local _ = 1016143686
+        local _ = 1191135761
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
         k(game.Players.LocalPlayer.Character, _)
     end
