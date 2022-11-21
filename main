@@ -1510,7 +1510,7 @@ j:Button(
     end
 )
 j:Button(
-    "Red-Sparkle-Time-Fedora",
+    "FireyHorns",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
@@ -1563,13 +1563,13 @@ j:Button(
                 end
             end
         end
-        local _ = 72082328
+        local _ = 215718515
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
         k(game.Players.LocalPlayer.Character, _)
     end
 )
 j:Button(
-    "Purple-Sparkle-Time-Fedora",
+    "BlackIronKing",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
@@ -1622,13 +1622,13 @@ j:Button(
                 end
             end
         end
-        local _ = 63043890
+        local _ = 439946249
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
         k(game.Players.LocalPlayer.Character, _)
     end
 )
 j:Button(
-    "Black-Sparkle-Time-Fedora",
+    "VoidStar",
     function()
         function l(a, _)
             local b = Instance.new("Weld")
@@ -1681,7 +1681,7 @@ j:Button(
                 end
             end
         end
-        local _ = 259423244
+        local _ = 1125510
         local _ = game:GetObjects("rbxassetid://" .. tostring(_))[1]
         k(game.Players.LocalPlayer.Character, _)
     end
